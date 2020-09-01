@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SimpleQuizApp</string>
+    <string name="your_score">Your Score</string>
+</resources>
